@@ -1,0 +1,4 @@
+Work in Japanese speaking Environment, the project is the cooperation with the Japanese company.
+Use sql to operate on database and search for the needed data for the daily operation requirements from clients.
+Use pl/sql language to operate on CRM to satisfy the clients' business needs.
+Check the daily operation system. 
